@@ -26,6 +26,16 @@ Rzeczywiste przypadki użycia z pełną implementacją:
 - Agent rekrutacyjny
 - Agent zarządzania projektami
 
+## 🔄 Meta-Przykład: Jak Powstał Ten Przewodnik
+**[Meta-Przykład: Tworzenie Tego Repo](./meta-przyklad-tworzenie-repo.md)**
+
+Praktyczny przykład użycia AI agenta z narzędziami MCP do stworzenia tego przewodnika:
+- **Wzorzec**: Coordinator Pattern z liniowym workflow
+- **Narzędzia MCP**: search_docs, web_search, fs_write, execute_bash, generate_diagram
+- **Proces**: Research → Analiza → Tworzenie → Review → Deployment
+- **Metryki**: 4h robocze, 32KB dokumentacji, koszt ~$15-20
+- **Lessons learned**: Iteracyjny proces, review loops, zarządzanie scope
+
 ## 🎨 Diagramy Decyzyjne
 
 Przewodnik zawiera diagramy Mermaid pomagające w podejmowaniu decyzji:
